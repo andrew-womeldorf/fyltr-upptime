@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fyltr.coffee.ico",
     "slug": "fyltr",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.76%",
-    "time": 399,
-    "timeDay": 464,
-    "timeWeek": 442,
-    "timeMonth": 492,
-    "timeYear": 399,
+    "uptimeYear": "99.77%",
+    "time": 402,
+    "timeDay": 1052,
+    "timeWeek": 539,
+    "timeMonth": 505,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2025-03-09": 1057
     }
