@@ -4,7 +4,7 @@
     "url": "https://fyltr.coffee",
     "icon": "https://icons.duckduckgo.com/ip3/fyltr.coffee.ico",
     "slug": "fyltr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 428,
     "timeYear": 414,
     "dailyMinutesDown": {
+      "2025-11-12": 0,
       "2025-03-09": 1057
     }
   }
