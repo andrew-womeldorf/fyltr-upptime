@@ -4,19 +4,19 @@
     "url": "https://fyltr.coffee",
     "icon": "https://icons.duckduckgo.com/ip3/fyltr.coffee.ico",
     "slug": "fyltr",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.80%",
+    "status": "up",
+    "uptime": "99.79%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.78%",
     "time": 413,
-    "timeDay": 374,
-    "timeWeek": 437,
+    "timeDay": 378,
+    "timeWeek": 434,
     "timeMonth": 400,
     "timeYear": 417,
     "dailyMinutesDown": {
-      "2025-11-18": 20,
+      "2025-11-18": 113,
       "2025-03-09": 1057
     }
   }
