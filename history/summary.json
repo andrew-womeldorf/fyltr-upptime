@@ -6,17 +6,17 @@
     "slug": "fyltr",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "92.18%",
+    "uptimeWeek": "98.88%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "99.78%",
     "time": 416,
-    "timeDay": 489,
-    "timeWeek": 489,
-    "timeMonth": 427,
-    "timeYear": 419,
+    "timeDay": 481,
+    "timeWeek": 457,
+    "timeMonth": 425,
+    "timeYear": 420,
     "dailyMinutesDown": {
-      "2025-11-18": 122,
+      "2025-11-18": 113,
       "2025-03-09": 1057
     }
   }
